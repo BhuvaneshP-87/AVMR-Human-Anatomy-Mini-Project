@@ -1,0 +1,41 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# Addressables / generated player data
+Assets/AddressableAssetsData/*/*.bin*
+
+# IDE
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gradle / Android generated output
+*.apk
+*.aab
+*.unitypackage
+*.BackUpThisFolder_ButDontShipItWithYourGame/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
+
+.utmp/
